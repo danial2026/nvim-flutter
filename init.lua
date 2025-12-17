@@ -143,7 +143,7 @@ require("lazy").setup({
             local dap = require("dap")
             map("n", "<leader>db", "<cmd>FlutterDebug<CR>",
                 { desc = "Start Flutter Debug" })
-            map("n", "<leader>dc", dap.continue, { desc = "Continue" })
+            map("n", "<leader>de", dap.continue, { desc = "Continue" })
             map("n", "<leader>do", dap.step_over, { desc = "Step Over" })
             map("n", "<leader>di", dap.step_into, { desc = "Step Into" })
             map("n", "<leader>du", dap.step_out, { desc = "Step Out" })
