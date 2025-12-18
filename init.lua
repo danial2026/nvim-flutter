@@ -1,5 +1,5 @@
 -- =======================================================
--- Neovim Configuration for React.js & Next.js Development
+-- Neovim Configuration for Flutter Development
 -- =======================================================
 --
 -- "For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, plans to give you hope and a future." - Jeremiah 29:11
